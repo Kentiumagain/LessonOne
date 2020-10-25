@@ -3,6 +3,7 @@ public class firstapp {
     static double F1 (int a, int b, int c, int d){
         double F1 = a * (b + (c / d));
         return F1;
+        
     }
     static boolean F2 (int a, int b){
         boolean F2;
